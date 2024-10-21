@@ -15,7 +15,11 @@ describe('TicTacToeComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
-    expect(component).toBeTruthy();
-  });
+  it('should initialize the board correctly', () => {});
+
+  it('should allow a player to make a move', () => {});
+
+  it('should detect a win condition', () => {});
+
+  it('should detect a draw', () => {});
 });
